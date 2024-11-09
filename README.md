@@ -1,4 +1,4 @@
-# Senior Blockchain Brand Book
+# Senior Blockchain Company (SBC) Brand Book
 
 ## Table of Contents
 1. [Company Overview](#company-overview)
@@ -76,5 +76,3 @@ The brand colors have been carefully chosen to convey trust, innovation, and pro
 - **Business Cards**: Feature the main gradient for a professional yet modern touch. Ensure all contact information is easy to read and includes essential links.
 - **Presentations**: Use the color palette consistently to create cohesive, visually appealing presentations that reinforce brand identity.
 - **Digital Assets**: Maintain uniformity across all digital channels. Use the blue tones for calls-to-action to draw attention without overwhelming users.
-
- 
